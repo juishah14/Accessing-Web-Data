@@ -1,7 +1,7 @@
 # Assignment from Coursera's Accessing Web Data using Python
 # For this assignment, we must write a Python program to use urllib and Beautiful Soup to parse HTML, 
 # scrape/extract numbers from the file, and compute their sum.
-# Test with http://py4e-data.dr-chuck.net/comments_564445.html. Answer should be 2552.
+# Test with http://py4e-data.dr-chuck.net/comments_564445.html. Answer is 2552.
 
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
