@@ -1,5 +1,8 @@
-# prompt user for URL so any webpage can be read; socket program will only show data after the headers and a blank line have been received
-# test with http://data.pr4e.org/romeo.txt
+# Assignment from Coursera's Accessing Web Data using Python
+# For this assignment, we must write a Python program which will retrieve a web page over a socket and will only display content after the headers, from the web server.
+
+# Prompt user for URL so any webpage can be read; socket program will only show data after the headers and a blank line have been received
+# Test with http://data.pr4e.org/romeo.txt
 
 import socket
 url = input("Enter URL: ")
