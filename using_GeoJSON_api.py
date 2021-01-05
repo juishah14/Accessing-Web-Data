@@ -1,4 +1,4 @@
-# Assignment from Coursera's Accessing Web Data using Python
+# Assignment from University of Michigan's Coursera Course Using Python to Access Web Data
 # For this assignment, we will use the GeoLocation Lookup API, which is modelled after the Google API, to look up universities and parse the
 # returned data.
 
