@@ -1,4 +1,4 @@
-# Assignment from Coursera's Accessing Web Data using Python
+# Assignment from University of Michigan's Coursera Course Using Python to Access Web Data
 # For this assignment, we must write a Python program which will retrieve a web page over a socket and will only display content after the headers, from the web server.
 
 # Prompt user for URL so any webpage can be read; socket program will only show data after the headers and a blank line have been received
