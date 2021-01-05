@@ -1,4 +1,4 @@
-# Assignment from Coursera's Accessing Web Data using Python
+# Assignment from University of Michigan's Coursera Course Using Python to Access Web Data
 # For this assignment, we must read XML data from the given URL using urllib, parse and extract comment counts from XML data,
 # and compute sum of numbers in the file.
 # Test with http://py4e-data.dr-chuck.net/comments_564447.xml. Count will be 50 and sum will be 2451.
