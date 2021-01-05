@@ -1,4 +1,4 @@
-# Assignment from Coursera's Accessing Web Data using Python
+# Assignment from University of Michigan's Coursera Course Using Python to Access Web Data
 # For this assignment, we must write a Python program to use urllib and Beautiful Soup to parse HTML, extract the link at the given pos,
 # and follow that link, repeating the process count number of times to report the last name that we find. 
 # Test with http://py4e-data.dr-chuck.net/known_by_Tyelor.html, letting count = 7 and position = 18. Answer is Erika. 
