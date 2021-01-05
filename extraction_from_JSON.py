@@ -1,4 +1,4 @@
-# Assignment from Coursera's Accessing Web Data using Python
+# Assignment from University of Michigan's Coursera Course Using Python to Access Web Data
 # For this assignment, we must read JSON data from the URL using urllib, parse and extract comment counts from JSON data,
 # and compute the sum of the numbers in the file.
 # Test with http://py4e-data.dr-chuck.net/comments_564448.json. Count will be 50 and sum will be 2306.
